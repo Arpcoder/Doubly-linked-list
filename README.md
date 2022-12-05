@@ -1,2 +1,2 @@
 # Doubly-linked-list
-This repo contains all code related to double inked list function.Codes are almost similar to lovebabbar
+This repo contains all functions related to double inked list.Codes are almost similar to lovebabbar
